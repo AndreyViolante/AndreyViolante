@@ -12,7 +12,7 @@ Software Engineering student & Robotics Teacher, turning curiosity about how thi
 
 ---
 
-### 👩‍💻 About me
+### 👨‍💻 About me
 
 - 🎓 Studying Software Engineering, teaching Robotics on the side
 - 🧩 I like taking things apart — literally: my main side project is a reverse-engineered protocol for an educational robot with no public docs
@@ -77,8 +77,8 @@ Three REST APIs built with FastAPI, covering different backend patterns: relatio
 ### 📊 Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreyviolante&show_icons=true&count_private=true&locale=en&theme=default" alt="andreyviolante's github stats" height="165" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyviolante&layout=compact&locale=en" alt="top languages" height="165" />
+  <img align="center" src="https://github-readme-stats.hackclub.dev/api?username=andreyviolante&show_icons=true&locale=en&theme=transparent" alt="andreyviolante's github stats" height="165" />
+  <img align="center" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=andreyviolante&layout=compact&locale=en&theme=transparent" alt="top languages" height="165" />
 </div>
 
 ---
@@ -87,7 +87,7 @@ Three REST APIs built with FastAPI, covering different backend patterns: relatio
 
 ### 📫 Let's connect
 
-<a href="https://linkedin.com/in/andrey-violante" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/andrey_violante" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrey-violante"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/andrey_violante"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 
 </div>

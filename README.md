@@ -81,6 +81,6 @@ Three REST APIs exploring distinct backend patterns: relational CRUD with Postgr
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=andreyviolante&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=andreyviolante&layout=compact&locale=en&theme=transparent&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andreyviolante&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyviolante&layout=compact&locale=en&theme=transparent&hide_border=true" alt="Top languages" height="165" />
 </p>

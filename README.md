@@ -1,7 +1,7 @@
-﻿<h1 align="center">Andrey Violante</h1>
+<h1 align="center">Andrey Violante</h1>
 
 <p align="center">
-  Software Engineering Student &nbsp;Â·&nbsp; Backend Developer &nbsp;Â·&nbsp; Robotics Teacher
+  Software Engineering Student &nbsp;&middot;&nbsp; Backend Developer &nbsp;&middot;&nbsp; Robotics Teacher
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## About
 
-Software Engineering student with a backend focus and a hands-on approach to learning: I build real systems to understand how they work â€” from REST APIs and event-driven services to mobile apps and reverse-engineered hardware protocols.
+Software Engineering student with a backend focus and a hands-on approach to learning: I build real systems to understand how they work &mdash; from REST APIs and event-driven services to mobile apps and reverse-engineered hardware protocols.
 
 - **Backend**: Python, FastAPI, PostgreSQL, MongoDB, RabbitMQ, Kafka, Docker
 - **Mobile & Frontend**: React Native (Expo), React, TypeScript
@@ -30,21 +30,21 @@ Currently deepening my knowledge of message brokers and containerized service ar
 
 ### [est-robot](https://github.com/AndreyViolante/est-robot)
 
-Reverse engineering of an educational robot (Dr. Luck EST) with no public documentation. Captured and analyzed USB traffic to map the robot's HID protocol, then built a Python compiler that translates plain Python scripts into the robot's byte-level program format â€” removing the dependency on the proprietary IDE.
+Reverse engineering of an educational robot (Dr. Luck EST) with no public documentation. Captured and analyzed USB traffic to map the robot's HID protocol, then built a Python compiler that translates plain Python scripts into the robot's byte-level program format &mdash; removing the dependency on the proprietary IDE.
 
-`Python` Â· `Reverse Engineering` Â· `HID Protocol` Â· `Robotics`
+`Python` &middot; `Reverse Engineering` &middot; `HID Protocol` &middot; `Robotics`
 
 ### [EnglishTutor](https://github.com/AndreyViolante/EnglishTutor)
 
-AI-powered English tutoring app for Brazilian middle school students (grades 6â€“8). An animated virtual teacher holds conversations by text and voice â€” speech recognition for the student, text-to-speech for the teacher â€” adapting content to the student's grade and curriculum, with explanation and role-play modes. Built with React Native, Expo and LLaMA 3.3 via the Groq API.
+AI-powered English tutoring app for Brazilian middle school students (grades 6&ndash;9). An animated virtual teacher holds conversations by text and voice &mdash; speech recognition for the student, text-to-speech for the teacher &mdash; adapting content to the student's grade and curriculum, with explanation, role-play and critical-thinking modes. Built with React Native, Expo and LLaMA 3.3 via the Groq API; also ships as a static web build deployed on Vercel.
 
-`React Native` Â· `Expo` Â· `TypeScript` Â· `LLM` Â· `Speech Recognition`
+`React Native` &middot; `Expo` &middot; `TypeScript` &middot; `LLM` &middot; `Speech Recognition`
 
 ### [estudos-backend](https://github.com/AndreyViolante/estudos-backend)
 
 Three REST APIs exploring distinct backend patterns: relational CRUD with PostgreSQL, integration testing against a real database with pytest, and event-driven order processing with MongoDB, RabbitMQ and Kafka. All services containerized with Docker.
 
-`FastAPI` Â· `PostgreSQL` Â· `MongoDB` Â· `RabbitMQ` Â· `Kafka` Â· `Docker` Â· `pytest`
+`FastAPI` &middot; `PostgreSQL` &middot; `MongoDB` &middot; `RabbitMQ` &middot; `Kafka` &middot; `Docker` &middot; `pytest`
 
 ## Tech Stack
 

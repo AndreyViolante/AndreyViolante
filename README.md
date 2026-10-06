@@ -11,7 +11,7 @@ No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e servi�
 ## 🌐 Conheça meu portfólio
 
 <a href="https://andreyviolante.github.io">
-  <img src="assets/portfolio.png" alt="Prévia do portfólio de Andrey Violante" width="480">
+  <img src="assets/portfolio.png" alt="Prévia do portfólio de Andrey Violante" width="100%">
 </a>
 
 <p align="center">

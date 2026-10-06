@@ -34,17 +34,17 @@ e escrevi um compilador que transforma scripts Python no formato binário do rob
 
 <sub>Python · HID/USB · Compiladores · Robótica</sub>
 
-<h3 align="center">⚙️ <a href="https://github.com/AndreyViolante/Estudos-Backend">Estudos-Backend</a></h3>
+<h3 align="center">💰 <a href="https://github.com/AndreyViolante/Finance-Ai">Finance-Ai</a></h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-estudos-backend-dark.png">
-  <img src="assets/flow-estudos-backend-light.png" alt="Fluxo do order-api: cliente, FastAPI, MongoDB e evento no RabbitMQ/Kafka lido por um consumidor" width="462">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-finance-ai-dark.png">
+  <img src="assets/flow-finance-ai-light.png" alt="Fluxo do Finance-Ai: notificação do banco, lê o valor, guarda no celular, painel e meta" width="570">
 </picture>
 
-Três APIs REST com FastAPI: CRUD com PostgreSQL, testes de integração contra banco real e processamento
-de pedidos orientado a eventos com MongoDB, RabbitMQ e Kafka. Tudo em Docker.
+App Android de finanças pessoais que registra os gastos sozinho: lê as notificações de compra do banco,
+extrai o valor e monta um painel com renda, despesas fixas, saldo livre e meta de economia. Os dados ficam só no celular.
 
-<sub>FastAPI · PostgreSQL · MongoDB · RabbitMQ · Kafka · Docker · pytest</sub>
+<sub>React Native · Expo · TypeScript · Java · MMKV</sub>
 
 <h3 align="center">🗣️ <a href="https://englishtutor-weld.vercel.app">EnglishTutor</a></h3>
 

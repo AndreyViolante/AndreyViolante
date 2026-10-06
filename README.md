@@ -22,7 +22,7 @@ No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e servi�
 
 ## Projetos em destaque
 
-### 🤖 [est-robot](https://github.com/AndreyViolante/est-robot)
+<h3 align="center">🤖 <a href="https://github.com/AndreyViolante/est-robot">est-robot</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flow-est-robot-dark.png">
@@ -34,7 +34,7 @@ e escrevi um compilador que transforma scripts Python no formato binário do rob
 
 <sub>Python · HID/USB · Compiladores · Robótica</sub>
 
-### ⚙️ [estudos-backend](https://github.com/AndreyViolante/estudos-backend)
+<h3 align="center">⚙️ <a href="https://github.com/AndreyViolante/estudos-backend">estudos-backend</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flow-estudos-backend-dark.png">
@@ -46,7 +46,7 @@ de pedidos orientado a eventos com MongoDB, RabbitMQ e Kafka. Tudo em Docker.
 
 <sub>FastAPI · PostgreSQL · MongoDB · RabbitMQ · Kafka · Docker · pytest</sub>
 
-### 🗣️ [EnglishTutor](https://englishtutor-weld.vercel.app)
+<h3 align="center">🗣️ <a href="https://englishtutor-weld.vercel.app">EnglishTutor</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flow-englishtutor-dark.png">
@@ -58,7 +58,7 @@ usa método socrático e se adapta à série do aluno. Desenvolvido para o meu T
 
 <sub>React Native · Expo · TypeScript · LLM · Reconhecimento de voz</sub>
 
-### 📱 [RegionWatcher](https://github.com/AndreyViolante/RegionWatcher)
+<h3 align="center">📱 <a href="https://github.com/AndreyViolante/RegionWatcher">RegionWatcher</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flow-regionwatcher-dark.png">
@@ -70,7 +70,7 @@ e comparação por hash perceptual (dHash).
 
 <sub>Kotlin · Jetpack Compose · Foreground Service</sub>
 
-### 📚 [biblioteca-django](https://github.com/AndreyViolante/biblioteca-django)
+<h3 align="center">📚 <a href="https://github.com/AndreyViolante/biblioteca-django">biblioteca-django</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flow-biblioteca-django-dark.png">

@@ -11,7 +11,7 @@ No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e servi�
 ## 🌐 Conheça meu portfólio
 
 <a href="https://andreyviolante.github.io">
-  <img src="assets/portfolio.png" alt="Prévia do portfólio de Andrey Violante" width="100%">
+  <img src="assets/portfolio.png" alt="Prévia do portfólio de Andrey Violante" width="480">
 </a>
 
 <p align="center">
@@ -25,8 +25,8 @@ No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e servi�
 ### 🤖 [est-robot](https://github.com/AndreyViolante/est-robot)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/est-robot-dark.png">
-  <img src="assets/est-robot-light.png" alt="Fluxo do est-robot: script Python, compilador, programa binário, envio por USB ao robô" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-est-robot-dark.png">
+  <img src="assets/flow-est-robot-light.png" alt="Fluxo do est-robot: script Python, compilador, programa binário, envio por USB ao robô" width="494">
 </picture>
 
 Engenharia reversa do robô educacional Dr. Luck EST. Mapeei o protocolo HID USB analisando o tráfego
@@ -37,8 +37,8 @@ e escrevi um compilador que transforma scripts Python no formato binário do rob
 ### ⚙️ [estudos-backend](https://github.com/AndreyViolante/estudos-backend)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/estudos-backend-dark.png">
-  <img src="assets/estudos-backend-light.png" alt="Fluxo do order-api: cliente, FastAPI, MongoDB e evento no RabbitMQ/Kafka lido por um consumidor" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-estudos-backend-dark.png">
+  <img src="assets/flow-estudos-backend-light.png" alt="Fluxo do order-api: cliente, FastAPI, MongoDB e evento no RabbitMQ/Kafka lido por um consumidor" width="462">
 </picture>
 
 Três APIs REST com FastAPI: CRUD com PostgreSQL, testes de integração contra banco real e processamento
@@ -49,8 +49,8 @@ de pedidos orientado a eventos com MongoDB, RabbitMQ e Kafka. Tudo em Docker.
 ### 🗣️ [EnglishTutor](https://englishtutor-weld.vercel.app)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/englishtutor-dark.png">
-  <img src="assets/englishtutor-light.png" alt="Conversa socrática com a professora virtual e o fluxo de voz do EnglishTutor" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-englishtutor-dark.png">
+  <img src="assets/flow-englishtutor-light.png" alt="Conversa socrática com a professora virtual e o fluxo de voz do EnglishTutor" width="527">
 </picture>
 
 Tutor de inglês com IA para alunos do 6º ao 9º ano. Uma professora virtual animada conversa por texto e voz,
@@ -61,8 +61,8 @@ usa método socrático e se adapta à série do aluno. Desenvolvido para o meu T
 ### 📱 [RegionWatcher](https://github.com/AndreyViolante/RegionWatcher)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/regionwatcher-dark.png">
-  <img src="assets/regionwatcher-light.png" alt="RegionWatcher compara o hash da área escolhida antes e agora e dispara um alerta quando muda" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-regionwatcher-dark.png">
+  <img src="assets/flow-regionwatcher-light.png" alt="RegionWatcher compara o hash da área escolhida antes e agora e dispara um alerta quando muda" width="497">
 </picture>
 
 App Android que vigia uma área da tela e avisa quando ela muda, usando captura via MediaProjection
@@ -73,8 +73,8 @@ e comparação por hash perceptual (dHash).
 ### 📚 [biblioteca-django](https://github.com/AndreyViolante/biblioteca-django)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/biblioteca-django-dark.png">
-  <img src="assets/biblioteca-django-light.png" alt="Tela de busca do acervo com filtros e lista de livros" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-biblioteca-django-dark.png">
+  <img src="assets/flow-biblioteca-django-light.png" alt="Tela de busca do acervo com filtros e lista de livros" width="252">
 </picture>
 
 CRUD de acervo de biblioteca com busca por título ou autor, filtros combináveis e validação de domínio.

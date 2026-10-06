@@ -22,7 +22,7 @@ No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e servi�
 
 ## Projetos em destaque
 
-<h3 align="center">🤖 <a href="https://github.com/AndreyViolante/est-robot">est-robot</a></h3>
+<h3 align="center">🤖 <a href="https://github.com/AndreyViolante/Est-Robot">Est-Robot</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flow-est-robot-dark.png">
@@ -34,7 +34,7 @@ e escrevi um compilador que transforma scripts Python no formato binário do rob
 
 <sub>Python · HID/USB · Compiladores · Robótica</sub>
 
-<h3 align="center">⚙️ <a href="https://github.com/AndreyViolante/estudos-backend">estudos-backend</a></h3>
+<h3 align="center">⚙️ <a href="https://github.com/AndreyViolante/Estudos-Backend">Estudos-Backend</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flow-estudos-backend-dark.png">
@@ -70,7 +70,7 @@ e comparação por hash perceptual (dHash).
 
 <sub>Kotlin · Jetpack Compose · Foreground Service</sub>
 
-<h3 align="center">📚 <a href="https://github.com/AndreyViolante/biblioteca-django">biblioteca-django</a></h3>
+<h3 align="center">📚 <a href="https://github.com/AndreyViolante/Biblioteca-Django">Biblioteca-Django</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flow-biblioteca-django-dark.png">

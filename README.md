@@ -70,16 +70,17 @@ e comparação por hash perceptual (dHash).
 
 <sub>Kotlin · Jetpack Compose · Foreground Service</sub>
 
-<h3 align="center">📚 <a href="https://github.com/AndreyViolante/Biblioteca-Django">Biblioteca-Django</a></h3>
+<h3 align="center">🎓 <a href="https://github.com/AndreyViolante/Moodle-Assistente">Moodle-Assistente</a></h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-biblioteca-django-dark.png">
-  <img src="assets/flow-biblioteca-django-light.png" alt="Tela de busca do acervo com filtros e lista de livros" width="252">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-moodle-assistente-dark.png">
+  <img src="assets/flow-moodle-assistente-light.png" alt="Fluxo do Moodle-Assistente: API do Moodle, prazos por urgência, aviso no Windows, tutor com IA" width="595">
 </picture>
 
-CRUD de acervo de biblioteca com busca por título ou autor, filtros combináveis e validação de domínio.
+Assistente de desktop para o AVA da faculdade. Consulta a API do Moodle, ordena as entregas por urgência,
+avisa por notificação do Windows quando um prazo se aproxima e abre um tutor com IA que já leu o enunciado e os PDFs da atividade.
 
-<sub>Python · Django</sub>
+<sub>Python · API REST · CustomTkinter · Gemini</sub>
 
 ## Tecnologias
 

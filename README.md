@@ -6,6 +6,7 @@ do protocolo de um robô educacional que não tinha documentação nenhuma.
 
 No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e serviços em containers.
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-0F7B6C?style=flat-square&logo=googlechrome&logoColor=white)](https://andreyviolante.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrey-violante)
 
 ### Projetos em destaque

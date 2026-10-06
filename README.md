@@ -8,7 +8,7 @@ No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e servi�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrey-violante)
 
-### 🌐 Conheça meu portfólio
+## 🌐 Conheça meu portfólio
 
 <a href="https://andreyviolante.github.io">
   <img src="assets/portfolio.png" alt="Prévia do portfólio de Andrey Violante" width="100%">
@@ -20,32 +20,68 @@ No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e servi�
   </a>
 </p>
 
-### Projetos em destaque
+## Projetos em destaque
 
-**[est-robot](https://github.com/AndreyViolante/est-robot)** — Engenharia reversa do robô educacional Dr. Luck EST.
-Mapeei o protocolo HID USB analisando o tráfego e escrevi um compilador que transforma scripts Python
-no formato binário do robô, dispensando a IDE proprietária.
-<br><sub>Python · HID/USB · Engenharia reversa</sub>
+### 🤖 [est-robot](https://github.com/AndreyViolante/est-robot)
 
-**[estudos-backend](https://github.com/AndreyViolante/estudos-backend)** — Três APIs REST com FastAPI:
-CRUD com PostgreSQL, testes de integração contra banco real e processamento de pedidos orientado a
-eventos com MongoDB, RabbitMQ e Kafka. Tudo em Docker.
-<br><sub>FastAPI · PostgreSQL · MongoDB · RabbitMQ · Kafka · Docker · pytest</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/est-robot-dark.png">
+  <img src="assets/est-robot-light.png" alt="Fluxo do est-robot: script Python, compilador, programa binário, envio por USB ao robô" width="100%">
+</picture>
 
-**[EnglishTutor](https://englishtutor-weld.vercel.app)** — Tutor de inglês com IA para alunos do 6º ao 9º ano.
-Professora virtual animada que conversa por texto e voz, com método socrático e adaptado à série do aluno.
-Desenvolvido para o meu TCC de Letras (código privado, app aberto no link).
-<br><sub>React Native · Expo · TypeScript · LLM · Reconhecimento de voz</sub>
+Engenharia reversa do robô educacional Dr. Luck EST. Mapeei o protocolo HID USB analisando o tráfego
+e escrevi um compilador que transforma scripts Python no formato binário do robô, dispensando a IDE proprietária.
 
-**[RegionWatcher](https://github.com/AndreyViolante/RegionWatcher)** — App Android que vigia uma área da tela e
-avisa quando ela muda, usando captura via MediaProjection e comparação por hash perceptual (dHash).
-<br><sub>Kotlin · Jetpack Compose · Foreground Service</sub>
+<sub>Python · HID/USB · Compiladores · Robótica</sub>
 
-**[biblioteca-django](https://github.com/AndreyViolante/biblioteca-django)** — CRUD de acervo de biblioteca
-com busca, filtros combináveis e validação de domínio.
-<br><sub>Python · Django</sub>
+### ⚙️ [estudos-backend](https://github.com/AndreyViolante/estudos-backend)
 
-### Tecnologias
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/estudos-backend-dark.png">
+  <img src="assets/estudos-backend-light.png" alt="Fluxo do order-api: cliente, FastAPI, MongoDB e evento no RabbitMQ/Kafka lido por um consumidor" width="100%">
+</picture>
+
+Três APIs REST com FastAPI: CRUD com PostgreSQL, testes de integração contra banco real e processamento
+de pedidos orientado a eventos com MongoDB, RabbitMQ e Kafka. Tudo em Docker.
+
+<sub>FastAPI · PostgreSQL · MongoDB · RabbitMQ · Kafka · Docker · pytest</sub>
+
+### 🗣️ [EnglishTutor](https://englishtutor-weld.vercel.app)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/englishtutor-dark.png">
+  <img src="assets/englishtutor-light.png" alt="Conversa socrática com a professora virtual e o fluxo de voz do EnglishTutor" width="100%">
+</picture>
+
+Tutor de inglês com IA para alunos do 6º ao 9º ano. Uma professora virtual animada conversa por texto e voz,
+usa método socrático e se adapta à série do aluno. Desenvolvido para o meu TCC (código privado, app aberto no link).
+
+<sub>React Native · Expo · TypeScript · LLM · Reconhecimento de voz</sub>
+
+### 📱 [RegionWatcher](https://github.com/AndreyViolante/RegionWatcher)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/regionwatcher-dark.png">
+  <img src="assets/regionwatcher-light.png" alt="RegionWatcher compara o hash da área escolhida antes e agora e dispara um alerta quando muda" width="100%">
+</picture>
+
+App Android que vigia uma área da tela e avisa quando ela muda, usando captura via MediaProjection
+e comparação por hash perceptual (dHash).
+
+<sub>Kotlin · Jetpack Compose · Foreground Service</sub>
+
+### 📚 [biblioteca-django](https://github.com/AndreyViolante/biblioteca-django)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/biblioteca-django-dark.png">
+  <img src="assets/biblioteca-django-light.png" alt="Tela de busca do acervo com filtros e lista de livros" width="100%">
+</picture>
+
+CRUD de acervo de biblioteca com busca por título ou autor, filtros combináveis e validação de domínio.
+
+<sub>Python · Django</sub>
+
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)

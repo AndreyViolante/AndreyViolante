@@ -36,7 +36,7 @@ A conversa se adapta ao ano escolar, ao nível e aos tópicos de gramática esco
 
 O método é **socrático**: em vez de entregar a resposta, a Kiara devolve uma pergunta que leva o aluno a chegar nela.
 Como o público é menor de idade, o comportamento da IA tem limites de segurança explícitos.
-Desenvolvido como parte prática do meu TCC em Letras (código privado, app aberto no link).
+O código é privado, mas o app está aberto no link.
 
 <p align="center">
   <a href="https://englishtutor-weld.vercel.app"><img src="https://img.shields.io/badge/Abrir_o_app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir o app"></a>

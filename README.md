@@ -20,19 +20,53 @@ No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e servi�
   </a>
 </p>
 
-## Projetos em destaque
+## ⭐ Projetos principais
 
-<h3 align="center">🤖 <a href="https://github.com/AndreyViolante/Est-Robot">Est-Robot</a></h3>
+<h2 align="center">🗣️ <a href="https://englishtutor-weld.vercel.app">Hi, Kiara!</a></h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-est-robot-dark.png">
-  <img src="assets/flow-est-robot-light.png" alt="Fluxo do est-robot: script Python, compilador, programa binário, envio por USB ao robô" width="494">
-</picture>
+<p align="center">
+  <a href="https://englishtutor-weld.vercel.app">
+    <img src="assets/hi-kiara-app.png" alt="Tela inicial do Hi, Kiara! com a Kiara, assistente virtual de inglês" width="280">
+  </a>
+</p>
 
-Engenharia reversa do robô educacional Dr. Luck EST. Mapeei o protocolo HID USB analisando o tráfego
-e escrevi um compilador que transforma scripts Python no formato binário do robô, dispensando a IDE proprietária.
+Assistente virtual de prática de inglês para alunos do 6º ao 9º ano. A **Kiara**, uma personagem animada,
+conversa com o aluno por **texto e voz**: reconhecimento de fala para ouvir o aluno, voz sintetizada para responder.
+A conversa se adapta ao ano escolar, ao nível e aos tópicos de gramática escolhidos.
 
-<sub>Python · HID/USB · Compiladores · Robótica</sub>
+O método é **socrático**: em vez de entregar a resposta, a Kiara devolve uma pergunta que leva o aluno a chegar nela.
+Como o público é menor de idade, o comportamento da IA tem limites de segurança explícitos.
+Desenvolvido como parte prática do meu TCC em Letras (código privado, app aberto no link).
+
+<p align="center">
+  <a href="https://englishtutor-weld.vercel.app"><img src="https://img.shields.io/badge/Abrir_o_app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir o app"></a>
+</p>
+
+<p align="center"><sub>React Native · Expo · TypeScript · LLM · Reconhecimento de voz · Síntese de voz</sub></p>
+
+<h2 align="center">🤖 <a href="https://github.com/AndreyViolante/Est-Robot">Est-Robot</a></h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/est-robot-dark.png">
+    <img src="assets/est-robot-light.png" alt="Fluxo do Est-Robot: script Python, compilador, programa binário, envio por USB ao robô" width="560">
+  </picture>
+</p>
+
+O robô educacional **Dr. Luck EST** só podia ser programado por uma IDE fechada e sem nenhuma documentação pública.
+Capturei e analisei o tráfego USB, mapeei o **protocolo HID** e o formato binário dos programas, e escrevi um
+**compilador** que transforma scripts Python no código que a máquina virtual do robô executa.
+
+Resultado: o robô passa a ser programado em Python puro, sem depender da IDE proprietária. Uso o projeto
+nas aulas de robótica e na preparação da equipe para a OBR.
+
+<p align="center">
+  <a href="https://github.com/AndreyViolante/Est-Robot"><img src="https://img.shields.io/badge/Ver_o_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver o código"></a>
+</p>
+
+<p align="center"><sub>Python · Engenharia reversa · HID/USB · Compiladores · Robótica</sub></p>
+
+## Outros projetos
 
 <h3 align="center">💰 <a href="https://github.com/AndreyViolante/Finance-Ai">Finance-Ai</a></h3>
 
@@ -45,18 +79,6 @@ App Android de finanças pessoais que registra os gastos sozinho: lê as notific
 extrai o valor e monta um painel com renda, despesas fixas, saldo livre e meta de economia. Os dados ficam só no celular.
 
 <sub>React Native · Expo · TypeScript · Java · MMKV</sub>
-
-<h3 align="center">🗣️ <a href="https://englishtutor-weld.vercel.app">Hi, Kiara!</a></h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-englishtutor-dark.png">
-  <img src="assets/flow-englishtutor-light.png" alt="Conversa socrática com a professora virtual e o fluxo de voz do Hi, Kiara!" width="527">
-</picture>
-
-Tutor de inglês com IA para alunos do 6º ao 9º ano. Uma professora virtual animada conversa por texto e voz,
-usa método socrático e se adapta à série do aluno. Desenvolvido para o meu TCC (código privado, app aberto no link).
-
-<sub>React Native · Expo · TypeScript · LLM · Reconhecimento de voz</sub>
 
 <h3 align="center">📱 <a href="https://github.com/AndreyViolante/RegionWatcher">RegionWatcher</a></h3>
 

@@ -46,11 +46,11 @@ extrai o valor e monta um painel com renda, despesas fixas, saldo livre e meta d
 
 <sub>React Native · Expo · TypeScript · Java · MMKV</sub>
 
-<h3 align="center">🗣️ <a href="https://englishtutor-weld.vercel.app">EnglishTutor</a></h3>
+<h3 align="center">🗣️ <a href="https://englishtutor-weld.vercel.app">Hi, Kiara!</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/flow-englishtutor-dark.png">
-  <img src="assets/flow-englishtutor-light.png" alt="Conversa socrática com a professora virtual e o fluxo de voz do EnglishTutor" width="527">
+  <img src="assets/flow-englishtutor-light.png" alt="Conversa socrática com a professora virtual e o fluxo de voz do Hi, Kiara!" width="527">
 </picture>
 
 Tutor de inglês com IA para alunos do 6º ao 9º ano. Uma professora virtual animada conversa por texto e voz,

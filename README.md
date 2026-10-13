@@ -44,7 +44,7 @@ O código é privado, mas o app está aberto no link.
 
 <p align="center"><sub>React Native · Expo · TypeScript · LLM · Reconhecimento de voz · Síntese de voz</sub></p>
 
-<h2 align="center">🤖 <a href="https://github.com/AndreyViolante/Est-Robot">Est-Robot</a></h2>
+<h2 align="center">🤖 <a href="https://github.com/AndreyViolante/est-robot">Est-Robot</a></h2>
 
 <p align="center">
   <picture>
@@ -55,16 +55,21 @@ O código é privado, mas o app está aberto no link.
 
 O robô educacional **Dr. Luck EST** só podia ser programado por uma IDE fechada e sem nenhuma documentação pública.
 Capturei e analisei o tráfego USB, mapeei o **protocolo HID** e o formato binário dos programas, e escrevi um
-**compilador** que transforma scripts Python no código que a máquina virtual do robô executa.
+**compilador próprio** que gera, byte a byte, os mesmos programas que a IDE oficial: 13 de 13 programas de referência idênticos.
 
-Resultado: o robô passa a ser programado em Python puro, sem depender da IDE proprietária. Uso o projeto
-nas aulas de robótica e na preparação da equipe para a OBR.
+Em cima dele criei uma **linguagem em português para crianças**. O aluno escreve `andar(rotacoes=2)` ou
+`with se_ver_cor(1, PRETO):` no **VS Code**, aperta `Ctrl+Shift+B` e o programa vai direto para o robô.
+Erros aparecem explicados em português, com a linha e uma sugestão de correção. O projeto tem instalador,
+guia do professor com 8 aulas e uma página pública convidando outras escolas a testar nas suas controladoras.
+
+Uso o projeto nas aulas de robótica e na preparação da equipe para a OBR.
 
 <p align="center">
-  <a href="https://github.com/AndreyViolante/Est-Robot"><img src="https://img.shields.io/badge/Ver_o_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver o código"></a>
+  <a href="https://github.com/AndreyViolante/est-robot"><img src="https://img.shields.io/badge/Ver_o_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver o código"></a>
+  <a href="https://andreyviolante.github.io/est-robot/"><img src="https://img.shields.io/badge/Convite_para_testar-2250FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Convite para testar"></a>
 </p>
 
-<p align="center"><sub>Python · Engenharia reversa · HID/USB · Compiladores · Robótica</sub></p>
+<p align="center"><sub>Python · Engenharia reversa · HID/USB · Compiladores · VS Code · Robótica educacional</sub></p>
 
 ## Outros projetos
 

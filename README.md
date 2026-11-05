@@ -22,51 +22,55 @@ No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e servi�
 
 ## ⭐ Projetos principais
 
-<h2 align="center">🗣️ <a href="https://englishtutor-weld.vercel.app">Hi, Kiara!</a></h2>
+<h2 align="center">🗣️ <a href="https://hi-kiara.vercel.app">Hi, Kiara!</a></h2>
 
 <p align="center">
-  <a href="https://englishtutor-weld.vercel.app">
+  <a href="https://hi-kiara.vercel.app">
     <img src="assets/hi-kiara-app.png" alt="Tela inicial do Hi, Kiara! com a Kiara, assistente virtual de inglês" width="280">
   </a>
 </p>
 
-Assistente virtual de prática de inglês para alunos do 6º ao 9º ano. A **Kiara**, uma personagem animada,
-conversa com o aluno por **texto e voz**: reconhecimento de fala para ouvir o aluno, voz sintetizada para responder.
-A conversa se adapta ao ano escolar, ao nível e aos tópicos de gramática escolhidos.
+Assistente virtual para alunos do 6º ao 9º ano praticarem inglês conversando por **voz ou texto**, no ritmo de cada um.
+O aluno escolhe o ano, os temas do currículo e um modo: explicação, questões críticas ou **role-play**, em que a Kiara
+vira um personagem e o aluno ganha uma missão.
 
-O método é **socrático**: em vez de entregar a resposta, a Kiara devolve uma pergunta que leva o aluno a chegar nela.
-Como o público é menor de idade, o comportamento da IA tem limites de segurança explícitos.
-O código é privado, mas o app está aberto no link.
+O método é **socrático**: ela pergunta antes de responder, para o aluno pensar e tentar. No fim, um resumo traz as
+correções, as palavras novas e o treino de pronúncia, pronto para imprimir.
+
+Virou uma ferramenta de sala de aula, com **painel do professor** por turma, progresso e medalhas, opções de
+acessibilidade e regras de segurança para menores de idade. Projeto de escola, apresentado na Mostra Pedagógica
+de Maricá. O código é privado, mas o app está aberto no link.
 
 <p align="center">
-  <a href="https://englishtutor-weld.vercel.app"><img src="https://img.shields.io/badge/Abrir_o_app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir o app"></a>
+  <a href="https://hi-kiara.vercel.app"><img src="https://img.shields.io/badge/Abrir_o_app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir o app"></a>
 </p>
 
-<p align="center"><sub>React Native · Expo · TypeScript · LLM · Reconhecimento de voz · Síntese de voz</sub></p>
+<p align="center"><sub>React Native · Expo · TypeScript · Vercel · Postgres · LLM · Reconhecimento e síntese de voz</sub></p>
 
-<h2 align="center">🤖 <a href="https://github.com/AndreyViolante/est-robot">Est-Robot</a></h2>
+<h2 align="center">🤖 <a href="https://andreyviolante.github.io/est-robot/">EST-LAB</a></h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/est-robot-dark.png">
-    <img src="assets/est-robot-light.png" alt="Fluxo do Est-Robot: script Python, compilador, programa binário, envio por USB ao robô" width="560">
-  </picture>
+  <a href="https://andreyviolante.github.io/est-robot/programar/">
+    <img src="assets/est-blocos.webp" alt="Página de programar do EST-LAB com blocos à esquerda e o Python gerado à direita" width="640">
+  </a>
 </p>
 
 O robô educacional **Dr. Luck EST** só podia ser programado por uma IDE fechada e sem nenhuma documentação pública.
 Capturei e analisei o tráfego USB, mapeei o **protocolo HID** e o formato binário dos programas, e escrevi um
-**compilador próprio** que gera, byte a byte, os mesmos programas que a IDE oficial: 13 de 13 programas de referência idênticos.
+**compilador próprio**, testado byte a byte contra a IDE oficial: 13 de 13 programas de referência idênticos.
 
-Em cima dele criei uma **linguagem em português para crianças**. O aluno escreve `andar(rotacoes=2)` ou
-`with se_ver_cor(1, PRETO):` no **VS Code**, aperta `Ctrl+Shift+B` e o programa vai direto para o robô.
-Erros aparecem explicados em português, com a linha e uma sugestão de correção. O projeto tem instalador,
-guia do professor com 8 aulas e uma página pública convidando outras escolas a testar nas suas controladoras.
+Em cima dele criei uma **linguagem em português** para aulas de robótica. O aluno programa no **VS Code** ou no
+**navegador**, em Python ou com **blocos**, e testa num **simulador** com desafios e arena da OBR. Os erros aparecem
+explicados em português, com a linha e uma sugestão de correção.
 
-Uso o projeto nas aulas de robótica e na preparação da equipe para a OBR.
+O projeto é gratuito e de código aberto (versão 0.1.6, licença MIT), tem guia do professor com 8 aulas, guia para
+equipes da OBR e [DOI no Zenodo](https://doi.org/10.5281/zenodo.23692767). Uso o projeto nas aulas de robótica e na
+preparação da equipe para a OBR.
 
 <p align="center">
+  <a href="https://andreyviolante.github.io/est-robot/programar/"><img src="https://img.shields.io/badge/Programar_no_navegador-2250FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Programar no navegador"></a>
+  <a href="https://andreyviolante.github.io/est-robot/simulador/"><img src="https://img.shields.io/badge/Simulador-0F7B6C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Simulador"></a>
   <a href="https://github.com/AndreyViolante/est-robot"><img src="https://img.shields.io/badge/Ver_o_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver o código"></a>
-  <a href="https://andreyviolante.github.io/est-robot/"><img src="https://img.shields.io/badge/Convite_para_testar-2250FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Convite para testar"></a>
 </p>
 
 <p align="center"><sub>Python · Engenharia reversa · HID/USB · Compiladores · VS Code · Robótica educacional</sub></p>

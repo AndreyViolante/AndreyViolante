@@ -9,6 +9,8 @@ No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e servi�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrey-violante)
 [![E-mail](https://img.shields.io/badge/E--mail-andreyviolante%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andreyviolante@gmail.com)
 [![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-PDF-0F7B6C?style=flat-square&logo=readthedocs&logoColor=white)](https://andreyviolante.github.io/assets/curriculo-andrey-violante.pdf)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-English-1F6FEB?style=flat-square&logo=readthedocs&logoColor=white)](https://andreyviolante.github.io/assets/resume-andrey-violante.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-English-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://andreyviolante.github.io/en/)
 
 ## 🌐 Conheça meu portfólio
 

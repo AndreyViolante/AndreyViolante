@@ -7,6 +7,8 @@ do protocolo de um robô educacional que não tinha documentação nenhuma.
 No momento estou estudando arquiteturas com mensageria (RabbitMQ/Kafka) e serviços em containers.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrey-violante)
+[![E-mail](https://img.shields.io/badge/E--mail-andreyviolante%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andreyviolante@gmail.com)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-PDF-0F7B6C?style=flat-square&logo=readthedocs&logoColor=white)](https://andreyviolante.github.io/assets/curriculo-andrey-violante.pdf)
 
 ## 🌐 Conheça meu portfólio
 
@@ -74,6 +76,18 @@ preparação da equipe para a OBR.
 </p>
 
 <p align="center"><sub>Python · Engenharia reversa · HID/USB · Compiladores · VS Code · Robótica educacional</sub></p>
+
+<h2 align="center">⚙️ <a href="https://github.com/AndreyViolante/Estudos-Backend">Estudos-Backend</a></h2>
+
+Três APIs REST em **FastAPI**, cada uma explorando um padrão: CRUD com PostgreSQL e SQLAlchemy 2, testes de integração
+contra um Postgres de verdade e uma API de pedidos que grava no **MongoDB** e publica cada pedido no **RabbitMQ** e no
+**Kafka**. São 28 testes com pytest, e tudo sobe com Docker Compose.
+
+<p align="center">
+  <a href="https://github.com/AndreyViolante/Estudos-Backend"><img src="https://img.shields.io/badge/Ver_o_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver o código"></a>
+</p>
+
+<p align="center"><sub>FastAPI · PostgreSQL · MongoDB · RabbitMQ · Kafka · Docker · pytest</sub></p>
 
 ## Outros projetos
 

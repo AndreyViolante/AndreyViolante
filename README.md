@@ -1,6 +1,6 @@
 ## Olá, eu sou o Andrey 👋
 
-Estudante de Engenharia de Software, focado em **backend com Python**, e professor de robótica.
+Estudante de Engenharia de Software (6º período), focado em **backend com Python**, e professor de robótica desde 2023.
 Aprendo construindo: APIs com mensageria, apps Android nativos e até a engenharia reversa
 do protocolo de um robô educacional que não tinha documentação nenhuma.
 

@@ -77,18 +77,6 @@ preparação da equipe para a OBR.
 
 <p align="center"><sub>Python · Engenharia reversa · HID/USB · Compiladores · VS Code · Robótica educacional</sub></p>
 
-<h2 align="center">⚙️ <a href="https://github.com/AndreyViolante/Estudos-Backend">Estudos-Backend</a></h2>
-
-Três APIs REST em **FastAPI**, cada uma explorando um padrão: CRUD com PostgreSQL e SQLAlchemy 2, testes de integração
-contra um Postgres de verdade e uma API de pedidos que grava no **MongoDB** e publica cada pedido no **RabbitMQ** e no
-**Kafka**. São 28 testes com pytest, e tudo sobe com Docker Compose.
-
-<p align="center">
-  <a href="https://github.com/AndreyViolante/Estudos-Backend"><img src="https://img.shields.io/badge/Ver_o_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver o código"></a>
-</p>
-
-<p align="center"><sub>FastAPI · PostgreSQL · MongoDB · RabbitMQ · Kafka · Docker · pytest</sub></p>
-
 ## Outros projetos
 
 <h3 align="center">💰 <a href="https://github.com/AndreyViolante/Finance-Ai">Finance-Ai</a></h3>
@@ -126,6 +114,12 @@ Assistente de desktop para o AVA da faculdade. Consulta a API do Moodle, ordena 
 avisa por notificação do Windows quando um prazo se aproxima e abre um tutor com IA que já leu o enunciado e os PDFs da atividade.
 
 <sub>Python · API REST · CustomTkinter · Gemini</sub>
+
+<h3 align="center">⚙️ <a href="https://github.com/AndreyViolante/Estudos-Backend">Estudos-Backend</a></h3>
+
+Exercícios de backend da faculdade: APIs em FastAPI com PostgreSQL, MongoDB, RabbitMQ e Kafka, em Docker.
+
+<sub>FastAPI · PostgreSQL · MongoDB · RabbitMQ · Kafka · Docker</sub>
 
 ## Tecnologias
 

@@ -1,6 +1,6 @@
 ## Olá, eu sou o Andrey 👋
 
-Estudante de Engenharia de Software (6º período), focado em **backend com Python**, e professor de robótica desde 2023.
+Estudante de Engenharia de Software (6º período), focado em **full-stack com Python**, e professor de robótica desde 2023.
 Aprendo construindo: APIs com mensageria, apps Android nativos e até a engenharia reversa
 do protocolo de um robô educacional que não tinha documentação nenhuma.
 
@@ -128,6 +128,9 @@ Exercícios de backend da faculdade: APIs em FastAPI com PostgreSQL, MongoDB, Ra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
@@ -141,4 +144,4 @@ Exercícios de backend da faculdade: APIs em FastAPI com PostgreSQL, MongoDB, Ra
 
 ---
 
-Aberto a oportunidades de **estágio** e **backend júnior**. Me chama no [LinkedIn](https://linkedin.com/in/andrey-violante).
+Aberto a oportunidades de **estágio** e **full-stack júnior**. Me chama no [LinkedIn](https://linkedin.com/in/andrey-violante).
